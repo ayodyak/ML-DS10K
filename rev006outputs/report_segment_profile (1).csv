@@ -1,0 +1,4 @@
+ReportSegment,Customers,Recency_median,Frequency_median,Monetary_median,Customer_share_%,Revenue_share_%
+Higher Value / Active,773,10.0,9.0,3491.64,17.89351851851852,68.11445377872992
+Mid-Tier Customers,1687,30.0,3.0,927.84,39.05092592592593,23.99834821292985
+Lower Value / Less Active,1860,159.5,1.0,285.815,43.05555555555556,7.887198008340225

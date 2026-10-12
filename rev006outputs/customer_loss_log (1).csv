@@ -1,0 +1,5 @@
+Stage,Count
+Customers after row cleaning,4362
+Dropped: cancellations only (no purchase invoice),28
+Dropped: non-positive net Monetary,14
+Customers modelled,4320
